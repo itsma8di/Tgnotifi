@@ -1,0 +1,4 @@
+name: tgnotifi-v2
+version: '${version}'
+main: com.itsma8di.tgnotifiv2.Tgnotifi
+api-version: '1.16'
